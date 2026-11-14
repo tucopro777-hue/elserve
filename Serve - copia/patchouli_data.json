@@ -1,0 +1,39 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "armageddon_mod:thearmageddonencyclopedia": {
+      "viewedEntries": [
+        "armageddon_mod:hardmode/hardmode_explanation",
+        "armageddon_mod:accessories/accessories_entry",
+        "armageddon_mod:accessories/hardmode_accessories",
+        "armageddon_mod:lore/lore_entry",
+        "armageddon_mod:lore/lore_scrolls_entry",
+        "armageddon_mod:config/config_entry",
+        "armageddon_mod:get_started/get_started",
+        "armageddon_mod:weapons/weapons_entry",
+        "armageddon_mod:progression/bosses",
+        "armageddon_mod:progression/progression_order",
+        "armageddon_mod:statuts_effects/statuts_effects_entry"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "terramity:terramity_guidebook": {
+      "viewedEntries": [
+        "terramity:guns/gun_types",
+        "terramity:overview/introduction",
+        "terramity:overview/multiplayer",
+        "terramity:overview/progession_guide",
+        "terramity:guns/controls"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "theabyss:the_abyss": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

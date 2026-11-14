@@ -1,0 +1,90 @@
+================================================================================
+                          MODPACK ELSERVER - INSTALACIÓN
+================================================================================
+
+TAMAÑO: 1.6 GB
+VERSIÓN: Minecraft 1.20.1 + Forge 47.4.28
+
+PASOS:
+================================================================================
+
+1. DESCOMPRIMIR / COPIAR ESTA CARPETA:
+
+   Copia la carpeta "copia-modserve" a:
+   C:\Users\TU_USUARIO\.minecraft\versions\
+
+   Ejemplo:
+   C:\Users\Juan\.minecraft\versions\copia-modserve\
+
+2. RENOMBRAR:
+
+   Rota-click en "copia-modserve" > Renombrar
+   Cambia a: Serve
+
+   Resultado:
+   C:\Users\Juan\.minecraft\versions\Serve\
+
+3. ABRIR TLAUNCHER:
+
+   • Click en "Nueva instancia"
+   • Nombre: Serve
+   • Localización: C:\Users\TU_USUARIO\.minecraft\versions\Serve
+   • Versión: 1.20.1
+   • Cargador: Forge 47.4.28
+   • RAM: 6-8 GB (Settings > Java > Memory)
+   • Usuario: Tu nick (ej: HAYAIKEN, pero cambia el tuyo)
+   • Crear y lanzar
+
+4. PRIMER ARRANQUE:
+
+   • Espera a que cargue (primera vez es lenta)
+   • Debería entrar al menú sin crashes
+   • Crea un mundo de prueba para verificar
+   • Si todo OK: listo para servidor
+
+5. SERVIDOR:
+
+   IP: [se compartirá]
+   Puerto: 25565
+   online-mode: false
+   Máximo 4 jugadores
+
+VERIFICACIÓN ANTES DE JUGAR:
+================================================================================
+
+Abre Esta carpeta (Serve\) y verifica:
+   ✓ Carpeta "mods" existe y tiene 260+ archivos .jar
+   ✓ Carpeta "config" tiene archivos
+   ✓ Carpeta "resourcepacks" tiene archivos
+   ✓ Carpeta "shaderpacks" tiene archivos
+   ✓ Tamaño total ~1.6 GB (Click derecho > Properties)
+
+Si algo falta:
+   → Verifica que renombraste "copia-modserve" a "Serve"
+   → Verifica que la carpeta está en .minecraft\versions\
+
+PROBLEMAS:
+================================================================================
+
+"No arranca el juego"
+   → Verifica que tenés Forge 47.4.28 (no otra versión)
+   → Aumenta RAM a 8 GB
+
+"Error: ID duplicado"
+   → No debería ocurrir, esto está limpio
+   → Si pasa, avisar al creador
+
+"Rendimiento bajo / lag"
+   → Apaga el shader: Options > Video Settings > Render Distance: 10
+   → O aumenta RAM a 8 GB
+
+DATOS:
+================================================================================
+Launcher: TLauncher (cuentas offline/Ely.by)
+Mods: 262+ (jefes, magia, combate, mundo)
+Shaders: ComplementaryUnbound (si baja FPS, apagalo)
+Idioma: Español (via resource pack)
+Servidor: 12 GB RAM, max 4 jugadores
+
+LISTO. BIENVENIDO AL MODPACK.
+================================================================================
