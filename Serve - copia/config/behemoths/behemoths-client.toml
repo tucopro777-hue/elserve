@@ -1,0 +1,20 @@
+
+["Pandemonium Voting"]
+	#Should the Pandemonium Voting Screen popup instantly as the voting session begins?
+	"Popup Pandemonium Voting Screen" = true
+	#Should the custom music be played during Pandemonium Voting?
+	"Enable Voting Music" = true
+	#Should Pandemonium Voting Results tallies display in chat?
+	#Warning: If disabled, preceding winning curses will not be shown to players during consecutive/queued voting sessions.
+	"Display Pandemonium Voting Results in Chat" = true
+	#How many particles in minimum should pop up in the background of the Pandemonium Voting screens?
+	#Range: > 0
+	"Minimum Voting Screen Particles" = 2
+	#How many particles in maximum should pop up in the background of the Pandemonium Voting screens?
+	#Range: > 0
+	"Maximum Voting Screen Particles" = 10
+
+[Miscellaneous]
+	#Should screen shake be enabled?
+	"Enable Screen Shake" = true
+
